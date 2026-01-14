@@ -14,9 +14,9 @@ I am a Software Developer focused on building efficient, scalable applications. 
 
 | Repository | Focus | Description |
 | :--- | :--- | :--- |
-| [Problem-Solving-Hub](https://github.com/mrcreed2023/Problem-Solving-Hub) | DSA | Algorithms & Data Structures in C# and C++ |
-| [React-Laboratory](https://github.com/mrcreed2023/React-Laboratory) | Frontend | Reusable components and React patterns |
-| [DotNet-Projects](https://github.com/mrcreed2023/DotNet-Projects) | Backend | API development and OOP implementation |
+| [Problem-Solving-Hub](https://github.com/MCreedR/Problem-Solving-Hub) | DSA | Algorithms & Data Structures in C# and C++ |
+| [React-Laboratory](https://github.com/MCreedR/React-Laboratory) | Frontend | Reusable components and React patterns |
+| [DotNet-Projects](https://github.com/MCreedR/DotNet-Projects) | Backend | API development and OOP implementation |
 
 ---
 
