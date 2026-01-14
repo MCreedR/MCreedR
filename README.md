@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vitalii 👋
+I am a Software Developer focused on building efficient, scalable applications. Currently, I'm documenting my journey in mastering **Data Structures**, **Alghorithms**, and **Full-Stack Development**.
 
-<!--
-**MCreedR/MCreedR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 My Tech Stack
+- **Backend:** C# (.NET Core), C++ (Low-level fundamentals)
+- **Frontend:** React.js, JavaScript (ES6+), CSS3/Tailwind
+- **tools:** Git, GitHub, VS Code, Visual Studio
 
-Here are some ideas to get you started:
+### 📂 Featured Repositories
+| Repository | Focus | Description |
+[**Problem-Solving-Hub**](#) | DSA | Algorithms & Data Structures in C# and C++ |
+[**React-Laboratory**](#) | Frontend | Reusable components and React patterns |
+[**DotNet-Projects**](#) | Backend | API development and OOP implementation | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=MCreedR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCreedR&layout=compact&theme=tokyonight)
+
+### 🤝 Let's Connect
+- 💼 [LinkedIn]([www.linkedin.com/in/vitalii-laur-50586427b])
+- 📧 [mrcreed2023@gmail.com]
