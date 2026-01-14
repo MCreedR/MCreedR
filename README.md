@@ -22,8 +22,8 @@ I am a Software Developer focused on building efficient, scalable applications. 
 
 ### 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrcreed2023&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcreed2023&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MCreedR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCreedR&layout=compact&theme=tokyonight)
 
 ---
 
